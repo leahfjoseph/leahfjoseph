@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-I'm Leah, a student at Biola University studying Computer Science. Interested in Business/Data Analytics and User Interface Design.
+I'm Leah, a student at Biola University studying Computer Science. Interested in Business/Data Analytics and User Interface Design. I'm currently learning more about Python and data handling in Excel.
+
+### 🔧 Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+
 
 ### Connect with me on LinkedIn! :smiley:
 <a href="https://www.linkedin.com/in/leahfjoseph/">
